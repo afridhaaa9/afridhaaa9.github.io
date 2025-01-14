@@ -4,6 +4,6 @@ title: "Reflection on the Use of GenAI"
 
 # Reflection on the Use of GenAI
 
-For this project, I utilized a technological tool that significantly streamlined the organization and presentation of my content. This was particularly helpful for managing technical tasks, such as embedding maps and adjusting the layout, which can often be time-consuming. By handling these aspects, the tool freed up my time, enabling me to concentrate more on crafting stories that were true to my personal experiences and voice.
-
+For this project, I utilized a technological tool that significantly streamlined the organization and presentation of my content. This was particularly helpful for managing technical tasks, such as embedding maps and adjusting the layout, which can often be time-consuming. By handling these aspects, the tool freed up my time, enabling me to concentrate more on other features.
+<br>
 While the tool made the process quicker, it occasionally presented challenges, especially in maintaining the authenticity of my narrative. It required me to carefully review and modify the output to ensure it didn't lose my personal touch. Despite these challenges, the tool proved invaluable, not only in saving time but also in enhancing my ability to present a polished and engaging project. Overall, it was a learning experience that taught me the importance of balancing technology use with personal storytelling.

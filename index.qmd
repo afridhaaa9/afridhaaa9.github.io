@@ -21,6 +21,8 @@ format:
 Hello! I'm Afridha, a passionate individual from Singapore, studying in Singapore Institute of Technology. Welcome to my personal portfolio where I showcase my projects and share my experiences.
 <br>
 
+
+
 ![My Image](mypicture.jpg){width=300 height=300} <!-- Adjust the path to where your image is stored -->
 
 ## My Work

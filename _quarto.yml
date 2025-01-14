@@ -10,8 +10,8 @@ website:
     left:
       - text: "Home"
         href: index.html  # Ensure this is .html
-      - text: "About"
-        href: about.html  # Ensure this is .html
+      - text: "Project Experience"
+        href: projectexperience.html  # Ensure this is .html
       - text: "Travel Experience"
         href: travelexperience.html  # Ensure this is .html
       - text: "Reflection"

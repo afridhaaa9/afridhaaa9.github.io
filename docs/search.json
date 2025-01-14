@@ -109,6 +109,62 @@
     "href": "reflection.html",
     "title": "Reflection on the Use of GenAI",
     "section": "",
-    "text": "Reflection on the Use of GenAI\nFor this project, I utilized a technological tool that significantly streamlined the organization and presentation of my content. This was particularly helpful for managing technical tasks, such as embedding maps and adjusting the layout, which can often be time-consuming. By handling these aspects, the tool freed up my time, enabling me to concentrate more on crafting stories that were true to my personal experiences and voice.\nWhile the tool made the process quicker, it occasionally presented challenges, especially in maintaining the authenticity of my narrative. It required me to carefully review and modify the output to ensure it didn’t lose my personal touch. Despite these challenges, the tool proved invaluable, not only in saving time but also in enhancing my ability to present a polished and engaging project. Overall, it was a learning experience that taught me the importance of balancing technology use with personal storytelling."
+    "text": "Reflection on the Use of GenAI\nFor this project, I utilized a technological tool that significantly streamlined the organization and presentation of my content. This was particularly helpful for managing technical tasks, such as embedding maps and adjusting the layout, which can often be time-consuming. By handling these aspects, the tool freed up my time, enabling me to concentrate more on other features.  While the tool made the process quicker, it occasionally presented challenges, especially in maintaining the authenticity of my narrative. It required me to carefully review and modify the output to ensure it didn’t lose my personal touch. Despite these challenges, the tool proved invaluable, not only in saving time but also in enhancing my ability to present a polished and engaging project. Overall, it was a learning experience that taught me the importance of balancing technology use with personal storytelling."
+  },
+  {
+    "objectID": "projectexperience.html",
+    "href": "projectexperience.html",
+    "title": "Final Year Project Overview",
+    "section": "",
+    "text": "In my final year at Temasek Polytechnic, I undertook a challenging and innovative project titled “Smart Health Monitoring System.” This project was part of my coursework in Computer Science and aimed to develop a wearable device that could monitor vital health metrics in real-time."
+  },
+  {
+    "objectID": "projectexperience.html#project-background",
+    "href": "projectexperience.html#project-background",
+    "title": "Final Year Project Overview",
+    "section": "",
+    "text": "In my final year at Temasek Polytechnic, I undertook a challenging and innovative project titled “Smart Health Monitoring System.” This project was part of my coursework in Computer Science and aimed to develop a wearable device that could monitor vital health metrics in real-time."
+  },
+  {
+    "objectID": "projectexperience.html#project-objectives",
+    "href": "projectexperience.html#project-objectives",
+    "title": "Final Year Project Overview",
+    "section": "Project Objectives",
+    "text": "Project Objectives\nThe primary objectives of the Smart Health Monitoring System were to: - Develop a reliable system for tracking vital health metrics such as heart rate, body temperature, and blood pressure. - Integrate real-time data analysis to provide immediate feedback and alerts to the user. - Enhance user engagement with health monitoring through a user-friendly mobile application."
+  },
+  {
+    "objectID": "projectexperience.html#challenges-faced",
+    "href": "projectexperience.html#challenges-faced",
+    "title": "Final Year Project Overview",
+    "section": "Challenges Faced",
+    "text": "Challenges Faced\nDuring the project, I encountered several significant challenges: - Sensor Integration: Ensuring accurate and reliable sensor readings in different environmental conditions. - Data Security: Implementing robust security measures to protect sensitive health data. - User Interface Design: Creating an intuitive interface that could be easily navigated by users of all ages."
+  },
+  {
+    "objectID": "projectexperience.html#solutions-and-technologies-used",
+    "href": "projectexperience.html#solutions-and-technologies-used",
+    "title": "Final Year Project Overview",
+    "section": "Solutions and Technologies Used",
+    "text": "Solutions and Technologies Used\nTo overcome these challenges, my team and I employed several strategies and technologies: - Arduino and Raspberry Pi: Used for gathering data from sensors and processing it in real-time. - Flutter: Developed the mobile application to interface with the hardware using Flutter, which allowed for a cross-platform, responsive app design. - AES Encryption: Implemented AES encryption for secure data transmission between the device and the app."
+  },
+  {
+    "objectID": "projectexperience.html#project-outcomes",
+    "href": "projectexperience.html#project-outcomes",
+    "title": "Final Year Project Overview",
+    "section": "Project Outcomes",
+    "text": "Project Outcomes\nThe project was a success, culminating in: - A fully functional prototype that was tested with a small group of users, receiving positive feedback on its accuracy and ease of use. - An academic paper submitted to a national conference on wearable technology, which discussed our findings and methodologies."
+  },
+  {
+    "objectID": "projectexperience.html#skills-developed",
+    "href": "projectexperience.html#skills-developed",
+    "title": "Final Year Project Overview",
+    "section": "Skills Developed",
+    "text": "Skills Developed\nThis project helped me develop a range of skills, including: - Technical Skills: Advanced programming in Python and Dart, hardware integration, and data security implementation. - Soft Skills: Project management, teamwork, and problem-solving under pressure."
+  },
+  {
+    "objectID": "projectexperience.html#reflection",
+    "href": "projectexperience.html#reflection",
+    "title": "Final Year Project Overview",
+    "section": "Reflection",
+    "text": "Reflection\nReflecting on this experience, I gained not only technical knowledge but also valuable lessons in teamwork and innovation. This project was instrumental in shaping my career aspirations and prepared me well for advanced studies and professional challenges at SIT.\n\nThis content offers a comprehensive overview of your project, highlighting the key aspects and your personal development through the process. Adjust the details to better fit your actual project and experiences. This will make your FYP project page engaging and informative, providing a detailed look at your capabilities and achievements."
   }
 ]

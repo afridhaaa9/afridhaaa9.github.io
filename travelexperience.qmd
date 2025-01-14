@@ -10,7 +10,7 @@ format: html
 Dubai is a city and emirate in the United Arab Emirates known for luxury shopping, ultramodern architecture, and a lively nightlife scene. My visit to Dubai was a dive into a world where tradition meets futuristic innovation in the most seamless manner. 
 
 ```{=html}
-<iframe width="600" height="450" src="https://www.youtube.com/embed/IdejM6wCkxA?si=tRUm9fY9sDhhSWz-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IdejM6wCkxA?si=sZsBldNbIJptNxdS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ### Highlights from Dubai
