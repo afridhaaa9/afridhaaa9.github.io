@@ -3,20 +3,24 @@ project:
   output-dir: docs
 
 website:
-  title: "temp-website"
+  title: "MY PORTFOLIO"
+  favicon: favicon.png
   navbar:
+    logo: logo.png
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: "Home"
+        href: index.html  # Ensure this is .html
+      - text: "About"
+        href: about.html  # Ensure this is .html
+      - text: "Travel Experience"
+        href: travelexperience.html  # Ensure this is .html
+      - text: "Reflection"
+        href: reflection.html  # Ensure this is .html
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmo
     css: styles.css
     toc: true
-
-
-
+    toc-depth: 3
+    toc-location: left

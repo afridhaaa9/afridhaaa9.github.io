@@ -1,1 +1,30 @@
-/* css styles */
+body {
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+  line-height: 1.2;
+}
+
+h1,h2 {
+  font-size: 16pt;
+}
+h3,h4 {
+  font-size: 14pt;
+}
+
+.navbar {
+    background-color: #FFC5D3; /* Dark blue background */
+    color: #ffffff; /* White text */
+}
+
+.navbar a {
+    color: #ffffff; /* Ensures links are also white */
+}
+
+
+
+

@@ -1,11 +1,33 @@
 ---
-title: "temp-website"
+title: "Welcome to My Portfolio"
+format:
+  html:
+    navbar:
+      left:
+        - text: "Home"
+          href: index.html
+        - text: "Projects"
+          href: projects.html
+        - text: "About Me"
+          href: about.html
+        - text: "Contact"
+          href: contact.html
 ---
 
-This is a Quarto website.
+# Welcome!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## About Me
 
-```{r}
-1 + 1
-```
+Hello! I'm Afridha, a passionate individual from Singapore, studying in Singapore Institute of Technology. Welcome to my personal portfolio where I showcase my projects and share my experiences.
+<br>
+
+![My Image](mypicture.jpg){width=300 height=300} <!-- Adjust the path to where your image is stored -->
+
+## My Work
+
+I have worked on various projects, predominantly focusing on the intersection of technology and innovative solutions. My experience spans a variety of areas within the tech industry, from developing sophisticated software applications to enhancing cybersecurity measures and crafting efficient data algorithms. Notably, I've contributed to the creation of an intuitive app that simplifies online transactions by using advanced encryption methods, ensuring user data is secure and transactions are seamless. Additionally, I've participated in projects aimed at harnessing big data to improve decision-making processes in real-time, utilizing machine learning to predict trends and outcomes with high accuracy. These projects not only challenged my technical skills but also enriched my ability to work collaboratively in diverse teams, driving forward solutions that address real-world problems.
+
+## Contact
+Feel free to reach out to me via email at <a href="mailto:2303151@sit.singaporetech.edu.sg" target="_blank">2303151@sit.singaporetech.edu.sg</a> or follow me on <a href="https://www.linkedin.com/in/afridha-saffiyudeen" target="_blank">LinkedIn</a>.
+
+

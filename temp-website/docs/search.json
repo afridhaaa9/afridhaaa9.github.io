@@ -2,15 +2,113 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "temp-website",
+    "title": "Welcome to My Portfolio",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hello! I’m Afridha, a passionate individual from Singapore, studying in Singapore Institute of Technology. Welcome to my personal portfolio where I showcase my projects and share my experiences. \n \n\n\n\nI have worked on various projects, predominantly focusing on the intersection of technology and innovative solutions. My experience spans a variety of areas within the tech industry, from developing sophisticated software applications to enhancing cybersecurity measures and crafting efficient data algorithms. Notably, I’ve contributed to the creation of an intuitive app that simplifies online transactions by using advanced encryption methods, ensuring user data is secure and transactions are seamless. Additionally, I’ve participated in projects aimed at harnessing big data to improve decision-making processes in real-time, utilizing machine learning to predict trends and outcomes with high accuracy. These projects not only challenged my technical skills but also enriched my ability to work collaboratively in diverse teams, driving forward solutions that address real-world problems.\n\n\n\nFeel free to reach out to me via email at 2303151@sit.singaporetech.edu.sg or follow me on LinkedIn."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Final Year Project Overview",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "In my final year at Temasek Polytechnic, I undertook a challenging and innovative project titled “Smart Health Monitoring System.” This project was part of my coursework in Computer Science and aimed to develop a wearable device that could monitor vital health metrics in real-time."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Welcome to My Portfolio",
+    "section": "",
+    "text": "Hello! I’m Afridha, a passionate individual from Singapore, studying in Singapore Institute of Technology. Welcome to my personal portfolio where I showcase my projects and share my experiences."
+  },
+  {
+    "objectID": "index.html#my-work",
+    "href": "index.html#my-work",
+    "title": "Welcome to My Portfolio",
+    "section": "",
+    "text": "I have worked on various projects, predominantly focusing on the intersection of technology and innovative solutions. My experience spans a variety of areas within the tech industry, from developing sophisticated software applications to enhancing cybersecurity measures and crafting efficient data algorithms. Notably, I’ve contributed to the creation of an intuitive app that simplifies online transactions by using advanced encryption methods, ensuring user data is secure and transactions are seamless. Additionally, I’ve participated in projects aimed at harnessing big data to improve decision-making processes in real-time, utilizing machine learning to predict trends and outcomes with high accuracy. These projects not only challenged my technical skills but also enriched my ability to work collaboratively in diverse teams, driving forward solutions that address real-world problems."
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Welcome to My Portfolio",
+    "section": "",
+    "text": "Feel free to reach out to me via email at 2303151@sit.singaporetech.edu.sg or follow me on LinkedIn."
+  },
+  {
+    "objectID": "about.html#project-background",
+    "href": "about.html#project-background",
+    "title": "Final Year Project Overview",
+    "section": "",
+    "text": "In my final year at Temasek Polytechnic, I undertook a challenging and innovative project titled “Smart Health Monitoring System.” This project was part of my coursework in Computer Science and aimed to develop a wearable device that could monitor vital health metrics in real-time."
+  },
+  {
+    "objectID": "about.html#project-objectives",
+    "href": "about.html#project-objectives",
+    "title": "Final Year Project Overview",
+    "section": "Project Objectives",
+    "text": "Project Objectives\nThe primary objectives of the Smart Health Monitoring System were to: - Develop a reliable system for tracking vital health metrics such as heart rate, body temperature, and blood pressure. - Integrate real-time data analysis to provide immediate feedback and alerts to the user. - Enhance user engagement with health monitoring through a user-friendly mobile application."
+  },
+  {
+    "objectID": "about.html#challenges-faced",
+    "href": "about.html#challenges-faced",
+    "title": "Final Year Project Overview",
+    "section": "Challenges Faced",
+    "text": "Challenges Faced\nDuring the project, I encountered several significant challenges: - Sensor Integration: Ensuring accurate and reliable sensor readings in different environmental conditions. - Data Security: Implementing robust security measures to protect sensitive health data. - User Interface Design: Creating an intuitive interface that could be easily navigated by users of all ages."
+  },
+  {
+    "objectID": "about.html#solutions-and-technologies-used",
+    "href": "about.html#solutions-and-technologies-used",
+    "title": "Final Year Project Overview",
+    "section": "Solutions and Technologies Used",
+    "text": "Solutions and Technologies Used\nTo overcome these challenges, my team and I employed several strategies and technologies: - Arduino and Raspberry Pi: Used for gathering data from sensors and processing it in real-time. - Flutter: Developed the mobile application to interface with the hardware using Flutter, which allowed for a cross-platform, responsive app design. - AES Encryption: Implemented AES encryption for secure data transmission between the device and the app."
+  },
+  {
+    "objectID": "about.html#project-outcomes",
+    "href": "about.html#project-outcomes",
+    "title": "Final Year Project Overview",
+    "section": "Project Outcomes",
+    "text": "Project Outcomes\nThe project was a success, culminating in: - A fully functional prototype that was tested with a small group of users, receiving positive feedback on its accuracy and ease of use. - An academic paper submitted to a national conference on wearable technology, which discussed our findings and methodologies."
+  },
+  {
+    "objectID": "about.html#skills-developed",
+    "href": "about.html#skills-developed",
+    "title": "Final Year Project Overview",
+    "section": "Skills Developed",
+    "text": "Skills Developed\nThis project helped me develop a range of skills, including: - Technical Skills: Advanced programming in Python and Dart, hardware integration, and data security implementation. - Soft Skills: Project management, teamwork, and problem-solving under pressure."
+  },
+  {
+    "objectID": "about.html#reflection",
+    "href": "about.html#reflection",
+    "title": "Final Year Project Overview",
+    "section": "Reflection",
+    "text": "Reflection\nReflecting on this experience, I gained not only technical knowledge but also valuable lessons in teamwork and innovation. This project was instrumental in shaping my career aspirations and prepared me well for advanced studies and professional challenges at SIT.\n\nThis content offers a comprehensive overview of your project, highlighting the key aspects and your personal development through the process. Adjust the details to better fit your actual project and experiences. This will make your FYP project page engaging and informative, providing a detailed look at your capabilities and achievements."
+  },
+  {
+    "objectID": "travelexperience.html",
+    "href": "travelexperience.html",
+    "title": "Travel Experience",
+    "section": "",
+    "text": "Dubai is a city and emirate in the United Arab Emirates known for luxury shopping, ultramodern architecture, and a lively nightlife scene. My visit to Dubai was a dive into a world where tradition meets futuristic innovation in the most seamless manner.\n\n\n\n\n\nBurj Khalifa: Standing at the top of the world’s tallest building was breathtaking. The view from the observation deck on the 124th floor is something I will never forget.\nDubai Mall: Shopping in one of the world’s largest malls was an experience in itself, featuring a vast array of goods from all around the globe.\nDubai Fountain: The beautifully choreographed fountain show, set on the 30-acre manmade Burj Khalifa Lake, was mesmerizing, especially during the evening when the lights and music perfectly complement the water dance.\n\n\n\n\nVisiting Dubai helped me appreciate the blending of different cultures and the spirit of innovation. The city’s ambition and ability to create monumental structures and experiences left a lasting impression on me.\n\n\n\n\nAustralia’s diverse ecosystems and vibrant cities made my visit there an unforgettable adventure. From its beautiful landscapes to its cultural richness, every moment spent in Australia was a discovery.\n\n\n\n\n\nGreat Barrier Reef: Snorkeling in the Great Barrier Reef was a dream come true. The vivid marine life and colorful coral reefs showcased nature at its best.\nSydney Opera House: Seeing a show at this iconic venue was not just about the performance but also admiring the architectural genius.\nUluru: Witnessing the sunset at Uluru was magical. The way the colors changed on the rock depending on the light provided a profound sense of tranquility.\n\n\n\n\nTraveling through Australia taught me the importance of environmental conservation and the deep cultural heritage that shapes the region. It also instilled in me a deep respect for nature and an urge to explore more of the natural world.\n\nThese experiences in Dubai and Australia were not only about exploring new places but also about self-discovery and understanding different cultures and environments. Each journey has enriched my life, bringing new perspectives and cherished memories."
+  },
+  {
+    "objectID": "travelexperience.html#dubai-united-arab-emirates",
+    "href": "travelexperience.html#dubai-united-arab-emirates",
+    "title": "Travel Experience",
+    "section": "",
+    "text": "Dubai is a city and emirate in the United Arab Emirates known for luxury shopping, ultramodern architecture, and a lively nightlife scene. My visit to Dubai was a dive into a world where tradition meets futuristic innovation in the most seamless manner.\n\n\n\n\n\nBurj Khalifa: Standing at the top of the world’s tallest building was breathtaking. The view from the observation deck on the 124th floor is something I will never forget.\nDubai Mall: Shopping in one of the world’s largest malls was an experience in itself, featuring a vast array of goods from all around the globe.\nDubai Fountain: The beautifully choreographed fountain show, set on the 30-acre manmade Burj Khalifa Lake, was mesmerizing, especially during the evening when the lights and music perfectly complement the water dance.\n\n\n\n\nVisiting Dubai helped me appreciate the blending of different cultures and the spirit of innovation. The city’s ambition and ability to create monumental structures and experiences left a lasting impression on me."
+  },
+  {
+    "objectID": "travelexperience.html#australia",
+    "href": "travelexperience.html#australia",
+    "title": "Travel Experience",
+    "section": "",
+    "text": "Australia’s diverse ecosystems and vibrant cities made my visit there an unforgettable adventure. From its beautiful landscapes to its cultural richness, every moment spent in Australia was a discovery.\n\n\n\n\n\nGreat Barrier Reef: Snorkeling in the Great Barrier Reef was a dream come true. The vivid marine life and colorful coral reefs showcased nature at its best.\nSydney Opera House: Seeing a show at this iconic venue was not just about the performance but also admiring the architectural genius.\nUluru: Witnessing the sunset at Uluru was magical. The way the colors changed on the rock depending on the light provided a profound sense of tranquility.\n\n\n\n\nTraveling through Australia taught me the importance of environmental conservation and the deep cultural heritage that shapes the region. It also instilled in me a deep respect for nature and an urge to explore more of the natural world.\n\nThese experiences in Dubai and Australia were not only about exploring new places but also about self-discovery and understanding different cultures and environments. Each journey has enriched my life, bringing new perspectives and cherished memories."
+  },
+  {
+    "objectID": "reflection.html",
+    "href": "reflection.html",
+    "title": "Reflection on the Use of GenAI",
+    "section": "",
+    "text": "Reflection on the Use of GenAI\nFor this project, I utilized a technological tool that significantly streamlined the organization and presentation of my content. This was particularly helpful for managing technical tasks, such as embedding maps and adjusting the layout, which can often be time-consuming. By handling these aspects, the tool freed up my time, enabling me to concentrate more on crafting stories that were true to my personal experiences and voice.\nWhile the tool made the process quicker, it occasionally presented challenges, especially in maintaining the authenticity of my narrative. It required me to carefully review and modify the output to ensure it didn’t lose my personal touch. Despite these challenges, the tool proved invaluable, not only in saving time but also in enhancing my ability to present a polished and engaging project. Overall, it was a learning experience that taught me the importance of balancing technology use with personal storytelling."
   }
 ]

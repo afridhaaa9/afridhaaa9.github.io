@@ -1,0 +1,45 @@
+---
+title: "Travel Experience"
+format: html
+---
+
+# My Travel Experiences
+
+## Dubai, United Arab Emirates
+
+Dubai is a city and emirate in the United Arab Emirates known for luxury shopping, ultramodern architecture, and a lively nightlife scene. My visit to Dubai was a dive into a world where tradition meets futuristic innovation in the most seamless manner. 
+
+```{=html}
+<iframe width="600" height="450" src="https://www.youtube.com/embed/IdejM6wCkxA?si=tRUm9fY9sDhhSWz-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+### Highlights from Dubai
+
+- **Burj Khalifa:** Standing at the top of the world's tallest building was breathtaking. The view from the observation deck on the 124th floor is something I will never forget.
+- **Dubai Mall:** Shopping in one of the world's largest malls was an experience in itself, featuring a vast array of goods from all around the globe.
+- **Dubai Fountain:** The beautifully choreographed fountain show, set on the 30-acre manmade Burj Khalifa Lake, was mesmerizing, especially during the evening when the lights and music perfectly complement the water dance.
+
+### Reflection
+
+Visiting Dubai helped me appreciate the blending of different cultures and the spirit of innovation. The city's ambition and ability to create monumental structures and experiences left a lasting impression on me.
+
+## Australia
+
+Australia's diverse ecosystems and vibrant cities made my visit there an unforgettable adventure. From its beautiful landscapes to its cultural richness, every moment spent in Australia was a discovery.
+
+```{=html}
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d848350.81805729!2d149.7491170002248!3d-33.841453166360935!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b129838f39a743f%3A0x3017d681632a850!2sSydney%20NSW%2C%20Australia!5e0!3m2!1sen!2ssg!4v1736833283909!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+### Highlights from Australia
+
+- **Great Barrier Reef:** Snorkeling in the Great Barrier Reef was a dream come true. The vivid marine life and colorful coral reefs showcased nature at its best.
+- **Sydney Opera House:** Seeing a show at this iconic venue was not just about the performance but also admiring the architectural genius.
+- **Uluru:** Witnessing the sunset at Uluru was magical. The way the colors changed on the rock depending on the light provided a profound sense of tranquility.
+
+### Reflection
+
+Traveling through Australia taught me the importance of environmental conservation and the deep cultural heritage that shapes the region. It also instilled in me a deep respect for nature and an urge to explore more of the natural world.
+
+---
+
+These experiences in Dubai and Australia were not only about exploring new places but also about self-discovery and understanding different cultures and environments. Each journey has enriched my life, bringing new perspectives and cherished memories.

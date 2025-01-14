@@ -1,9 +1,50 @@
 ---
-title: "About"
+title: "Final Year Project Overview"
+format: html
 ---
 
-About this site
 
-```{r}
-1 + 1
-```
+## Project Background
+
+In my final year at Temasek Polytechnic, I undertook a challenging and innovative project titled "Smart Health Monitoring System." This project was part of my coursework in Computer Science and aimed to develop a wearable device that could monitor vital health metrics in real-time.
+
+## Project Objectives
+
+The primary objectives of the Smart Health Monitoring System were to:
+- Develop a reliable system for tracking vital health metrics such as heart rate, body temperature, and blood pressure.
+- Integrate real-time data analysis to provide immediate feedback and alerts to the user.
+- Enhance user engagement with health monitoring through a user-friendly mobile application.
+
+## Challenges Faced
+
+During the project, I encountered several significant challenges:
+- **Sensor Integration:** Ensuring accurate and reliable sensor readings in different environmental conditions.
+- **Data Security:** Implementing robust security measures to protect sensitive health data.
+- **User Interface Design:** Creating an intuitive interface that could be easily navigated by users of all ages.
+
+## Solutions and Technologies Used
+
+To overcome these challenges, my team and I employed several strategies and technologies:
+- **Arduino and Raspberry Pi:** Used for gathering data from sensors and processing it in real-time.
+- **Flutter:** Developed the mobile application to interface with the hardware using Flutter, which allowed for a cross-platform, responsive app design.
+- **AES Encryption:** Implemented AES encryption for secure data transmission between the device and the app.
+
+## Project Outcomes
+
+The project was a success, culminating in:
+- A fully functional prototype that was tested with a small group of users, receiving positive feedback on its accuracy and ease of use.
+- An academic paper submitted to a national conference on wearable technology, which discussed our findings and methodologies.
+
+## Skills Developed
+
+This project helped me develop a range of skills, including:
+- **Technical Skills:** Advanced programming in Python and Dart, hardware integration, and data security implementation.
+- **Soft Skills:** Project management, teamwork, and problem-solving under pressure.
+
+## Reflection
+
+Reflecting on this experience, I gained not only technical knowledge but also valuable lessons in teamwork and innovation. This project was instrumental in shaping my career aspirations and prepared me well for advanced studies and professional challenges at SIT.
+
+---
+
+This content offers a comprehensive overview of your project, highlighting the key aspects and your personal development through the process. Adjust the details to better fit your actual project and experiences. This will make your FYP project page engaging and informative, providing a detailed look at your capabilities and achievements.
